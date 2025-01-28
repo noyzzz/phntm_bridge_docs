@@ -16,7 +16,7 @@ It comes with Docker Container control for the host machine, system load and Wi-
 and customizable Web Interface for both desktop and mobile touchscreen devices.
 
 This Bridge is indended to be a modern replacement for RViz, in some cases going beyong what is
-typically consideted a ROS visualization tool, in order to make robotics development with ROS2 easier.
+typically considered a ROS visualization tool, in order to make robotics development with ROS2 easier.
 
 Features
 ========
